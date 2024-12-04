@@ -47,7 +47,7 @@ def OPEN_DATA(FILE_NAME):
     return DATA
 
 def main():
-    DATA = 'Advent-of-Code-2024/Day Three/dataset.txt'
+    DATA = 'Advent-of-Code-2024/Day 3/dataset.txt'
     DATA = OPEN_DATA(DATA)
    
     if DATA:
